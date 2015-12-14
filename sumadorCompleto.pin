@@ -1,0 +1,11 @@
+Cypress Package: palc22v10d-25pc  PinOut File: sumadorCompleto.pin
+
+This file was created on 09/28/2014 at 18:49:44 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+x in <> Enabled Normal 2 <> [User] 
+y in <> Enabled Normal 3 <> [User] 
+z in <> Enabled Normal 4 <> [User] 
+a out <> Enabled Normal 15 <> [User] 
+s out <> Enabled Normal 16 <> [User] 

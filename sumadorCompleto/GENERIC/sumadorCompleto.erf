@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Documents and Settings\Administrador\Escritorio\sumadorCompleto\sumadorCompleto.vhd" 
+MESSAGE "Compile Entity "sumadorCompleto"" 
+MESSAGE "Compile Architecture "funcion" of Entity "sumadorCompleto"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   sumadorCompleto" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 
